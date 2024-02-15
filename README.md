@@ -1,5 +1,5 @@
 # Free Windows Server 2022 With RDP For Lifetime
-This repository is all about getting free windows server 2022 with rdp using github jobs & ngrok tunne. In this github repositoyr i added the step by step guide to have a free windows vsp server thorugh github and accessing it via remote desktop connection.
+This repository is all about getting free windows server 2022 with rdp using github jobs & ngrok tunnel. In this github repositoyr i added the step by step guide to have a free windows vsp server thorugh github and accessing it via remote desktop connection.
 
 ## Watch Full Video Guide on My YouTube Channel
 
